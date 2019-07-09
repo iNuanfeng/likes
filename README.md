@@ -1,8 +1,10 @@
 # likes
 
-### July 8, 2019 
+### July 9, 2019 
 
 - [【基础】大厂前端面试高频 100 题](https://juejin.im/post/5d23e750f265da1b855c7bbe)
+- [【质量】有赞前端质量保障体系](https://juejin.im/post/5d24096ee51d454d1d6285a1)
+
 
 ### July 8, 2019 
 
