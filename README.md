@@ -4,6 +4,7 @@
 ### July 10, 2019 
 
 - [【Vue深入】渲染器——组件的本质](http://hcysun.me/vue-design/zh)
+- [【性能】Google Chrome 工程师：JavaScript 不容错过的八大优化建议](https://dwz.cn/ZJhnsKVL)
 
 ### July 9, 2019 
 
