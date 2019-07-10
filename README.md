@@ -1,5 +1,10 @@
 # likes
 
+
+### July 10, 2019 
+
+- [【Vue深入】渲染器——组件的本质](http://hcysun.me/vue-design/zh)
+
 ### July 9, 2019 
 
 - [【基础】大厂前端面试高频 100 题](https://juejin.im/post/5d23e750f265da1b855c7bbe)
@@ -20,6 +25,5 @@
 - [【综合】面试官到底想看什么样的简历？](https://juejin.im/post/5d1d52aff265da1bb2774de0)
 - [【规范】前端团队代码评审 CheckList 清单](https://juejin.im/post/5d1c6550518825330a3bfa01)
 - [【基础】一名合格前端工程师的自检清单](https://zhuanlan.zhihu.com/p/64852496)
-
 - [【工程】微前端如何落地？—— Phodal](https://juejin.im/post/5d1d8d426fb9a07efe2dda40)
 
