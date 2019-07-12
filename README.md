@@ -2,6 +2,13 @@
 
 ### July 11, 2019 
 
+- [【工程】[译] 微前端：未来前端开发的新趋势](https://github.com/xitu/gold-miner/blob/master/TODO1/micro-frontends-1.md)
+- [【工程】是时候开发你自己的vscode扩展插件了](https://juejin.im/post/5d2755c4e51d45105e021360)
+
+
+
+### July 11, 2019 
+
 - [【跨端】微信小程序底层架构](https://juejin.im/post/5d26bbb851882530af13996e)
 
 ### July 10, 2019 
@@ -21,8 +28,8 @@
 
 ### July 5, 2019 
 
-- [为什么视频网站的视频链接地址是blob？](https://juejin.im/post/5d1ea7a8e51d454fd8057bea)
-- [如何用不到200行代码写一款属于自己的js类库](https://juejin.im/post/5d1e26a2e51d45595319e3a9)
+- [【基础】为什么视频网站的视频链接地址是blob？](https://juejin.im/post/5d1ea7a8e51d454fd8057bea)
+- [【基础】如何用不到200行代码写一款属于自己的js类库](https://juejin.im/post/5d1e26a2e51d45595319e3a9)
 
 ### July 4, 2019 
 
