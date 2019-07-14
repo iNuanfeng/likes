@@ -1,5 +1,9 @@
 # likes
 
+### July 14, 2019
+
+- [【性能】[译] 2018 前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)
+
 ### July 13, 2019
 
 - [【工程】点我达三年前端路暨点我达前端演变过程](https://juejin.im/post/5d292c0ef265da1ba56b4bd4)
