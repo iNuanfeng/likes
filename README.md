@@ -3,6 +3,8 @@
 ### July 15, 2019
 
 - [【性能】Network throttling in Puppeteer](https://fdalvi.github.io/blog/2018-02-05-puppeteer-network-throttle/)
+- [【Vue】Vue 3.0对Web开发意味着什么？](https://mp.weixin.qq.com/s/5LxFhWv4cO6hAHlg3ax1Fg)
+- [【基础】图解浏览器的工作原理（史上最全）](https://zhuanlan.zhihu.com/p/47407398)
 
 ### July 14, 2019
 
@@ -25,7 +27,7 @@
 
 ### July 10, 2019 
 
-- [【Vue深入】渲染器——组件的本质](http://hcysun.me/vue-design/zh)
+- [【Vue】渲染器——组件的本质](http://hcysun.me/vue-design/zh)
 - [【性能】Google Chrome 工程师：JavaScript 不容错过的八大优化建议](https://dwz.cn/ZJhnsKVL)
 
 ### July 9, 2019 
@@ -36,7 +38,7 @@
 
 ### July 8, 2019 
 
-- [【React深入】从Mixin到HOC再到Hook](https://juejin.im/post/5cad39b3f265da03502b1c0a)
+- [【React】从Mixin到HOC再到Hook](https://juejin.im/post/5cad39b3f265da03502b1c0a)
 
 ### July 5, 2019 
 
