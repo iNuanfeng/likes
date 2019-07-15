@@ -1,5 +1,9 @@
 # likes
 
+### July 15, 2019
+
+- [【性能】Network throttling in Puppeteer](https://fdalvi.github.io/blog/2018-02-05-puppeteer-network-throttle/)
+
 ### July 14, 2019
 
 - [【性能】[译] 2018 前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)
