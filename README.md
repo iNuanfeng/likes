@@ -1,5 +1,10 @@
 # likes
 
+### July 16, 2019
+
+- [【基础】8个问题看你是否真的懂 JS](https://juejin.im/post/5d2d146bf265da1b9163c5c9)
+- [【深入】JavaScript深入浅出第4课：V8引擎是如何工作的？](https://juejin.im/post/5d2d20f35188253b636b67aa)
+
 ### July 15, 2019
 
 - [【性能】Network throttling in Puppeteer](https://fdalvi.github.io/blog/2018-02-05-puppeteer-network-throttle/)
