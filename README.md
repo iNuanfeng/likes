@@ -4,6 +4,7 @@
 
 - [【基础】8个问题看你是否真的懂 JS](https://juejin.im/post/5d2d146bf265da1b9163c5c9)
 - [【深入】JavaScript深入浅出第4课：V8引擎是如何工作的？](https://juejin.im/post/5d2d20f35188253b636b67aa)
+- [【深入】JavaScript深入浅出第3课：什么是垃圾回收算法？](https://blog.fundebug.com/2019/07/03/javascript-garbage-collection/)
 
 ### July 15, 2019
 
