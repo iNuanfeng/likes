@@ -1,5 +1,9 @@
 # likes
 
+### July 17, 2019
+
+- [【基础】Proxy 的巧用](https://juejin.im/post/5d2e657ae51d4510b71da69d)
+
 ### July 16, 2019
 
 - [【基础】8个问题看你是否真的懂 JS](https://juejin.im/post/5d2d146bf265da1b9163c5c9)
