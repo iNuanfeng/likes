@@ -1,6 +1,12 @@
 # likes
 
-### July 20, 2019
+### July 22, 2019
+
+- [【算法】揭开在线协作的神秘面纱 - OT算法](https://juejin.im/post/5d3437b2f265da1b827ad7c9)
+- [【性能】实战篇 - 如何实现和淘宝移动端一样的模块化加载](https://juejin.im/post/5d33fd0f5188256e820c80d4)
+- [【Vue】《渲染器》：逐行级别的源码分析](http://hcysun.me/vue-design/zh/)
+
+### July 21, 2019
 
 - [【性能】WebAssembly 在 eBay 的实践：速度提升 50 倍](https://www.infoq.cn/article/vc*q7psQqWMaVU8igJeD)
 
