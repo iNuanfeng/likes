@@ -1,5 +1,8 @@
 # likes
 
+### July 24, 2019
+
+- [【性能】前端离线化探索](https://juejin.im/post/5d36e7b2f265da1b971ab484)
 ### July 23, 2019
 
 - [【性能】WebAssembly 不完全指北](https://juejin.im/post/5d367656f265da1b904c2126)
