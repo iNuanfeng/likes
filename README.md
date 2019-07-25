@@ -3,6 +3,7 @@
 ### July 25, 2019
 
 - [【性能】css加载会造成阻塞吗](https://segmentfault.com/a/1190000018130499)
+- [【基础】一个合格的前端都应该阅读这些文章](https://juejin.im/post/5d387f696fb9a07eeb13ea60)
 
 ### July 24, 2019
 
