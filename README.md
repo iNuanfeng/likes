@@ -2,6 +2,7 @@
 
 ### July 25, 2019
 
+- [【工程】领域驱动设计在前端中的应用](https://juejin.im/post/5d3926176fb9a07ef161c719)
 - [【性能】css加载会造成阻塞吗](https://segmentfault.com/a/1190000018130499)
 - [【基础】一个合格的前端都应该阅读这些文章](https://juejin.im/post/5d387f696fb9a07eeb13ea60)
 
