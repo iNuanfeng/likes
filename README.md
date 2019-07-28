@@ -1,5 +1,10 @@
 # likes
 
+### July 28, 2019
+
+- [【Node】Node.js 中的缓冲区（Buffer）究竟是什么？](https://juejin.im/post/5d3a3b8ff265da1b8d166323)
+- [【工程】Serverless，将给前端发展带来大变革的技术？](https://mp.weixin.qq.com/s/ooX7uMFjxFfSai9URo6kYw)
+
 ### July 25, 2019
 
 - [【工程】领域驱动设计在前端中的应用](https://juejin.im/post/5d3926176fb9a07ef161c719)
