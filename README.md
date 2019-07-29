@@ -1,5 +1,9 @@
 # likes
 
+### July 29, 2019
+
+- [【性能】不到 0.3s 完成渲染！360 信息流正文“闪开”优化实践](https://juejin.im/post/5d3e5b1e6fb9a07ef710bc2f)
+
 ### July 28, 2019
 
 - [【Node】Node.js 中的缓冲区（Buffer）究竟是什么？](https://juejin.im/post/5d3a3b8ff265da1b8d166323)
