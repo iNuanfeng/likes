@@ -1,5 +1,9 @@
 # likes
 
+### July 30, 2019
+
+- [【性能】你必须懂的前端性能优化](https://segmentfault.com/a/1190000019897234)
+
 ### July 29, 2019
 
 - [【性能】不到 0.3s 完成渲染！360 信息流正文“闪开”优化实践](https://juejin.im/post/5d3e5b1e6fb9a07ef710bc2f)
