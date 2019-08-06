@@ -1,5 +1,9 @@
 # likes
 
+### August 6, 2019
+
+- [【Node】深入解析Node.js事件循环工作机制](https://dwz.cn/EdzgnzLd)
+
 ### August 5, 2019
 
 - [【Node】Serverless（无服务）基础知识](https://juejin.im/post/5d42945ff265da03a715b2f0)
