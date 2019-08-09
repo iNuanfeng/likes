@@ -1,5 +1,9 @@
 # likes
 
+### August 9, 2019
+
+- [【基础】大揭秘！“恐怖”的阿里一面，我究竟想问什么](https://github.com/Nealyang/PersonalBlog/issues/50)
+
 ### August 6, 2019
 
 - [【Node】深入解析Node.js事件循环工作机制](https://dwz.cn/EdzgnzLd)
