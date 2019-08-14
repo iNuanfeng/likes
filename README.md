@@ -1,5 +1,9 @@
 # likes
 
+### August 14, 2019
+
+- [【深入】从Chrome源码看浏览器如何构建DOM树](https://zhuanlan.zhihu.com/p/24911872)
+
 ### August 12, 2019
 
 - [【Node】Node.js - 200 多行代码实现 Websocket 协议](https://mp.weixin.qq.com/s/nD_7lpIIDt6QBCFl-RzLrw)
