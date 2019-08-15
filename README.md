@@ -1,5 +1,9 @@
 # likes
 
+### August 15, 2019
+
+- [【基础】正反对比捋完TypeScript](https://juejin.im/post/5d53a8895188257fad671cbc)
+
 ### August 14, 2019
 
 - [【深入】从Chrome源码看浏览器如何构建DOM树](https://zhuanlan.zhihu.com/p/24911872)
