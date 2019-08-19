@@ -1,5 +1,9 @@
 # likes
 
+### August 19, 2019
+
+- [【图形】一步步带你实现web全景看房——three.js](https://juejin.im/post/5d57967a6fb9a06b017e4b62)
+
 ### August 16, 2019
 
 - [【工程】后端接口 Typescript 运行时数据校验](https://github.com/SunshowerC/blog/issues/13)
