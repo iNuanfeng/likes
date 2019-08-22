@@ -1,5 +1,9 @@
 # likes
 
+### August 22, 2019
+
+- [【工程】前端物料中台建设](https://juejin.im/post/5d5b542e6fb9a06acb3ea2b0)
+
 ### August 19, 2019
 
 - [【图形】一步步带你实现web全景看房——three.js](https://juejin.im/post/5d57967a6fb9a06b017e4b62)
