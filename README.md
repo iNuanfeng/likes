@@ -1,5 +1,9 @@
 # likes
 
+### August 24, 2019
+
+- [【应用】Web 应用的撤销重做实现](https://juejin.im/post/5d5e508d6fb9a06ad347312f)
+
 ### August 22, 2019
 
 - [【工程】前端物料中台建设](https://juejin.im/post/5d5b542e6fb9a06acb3ea2b0)
