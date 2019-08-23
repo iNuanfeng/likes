@@ -2,6 +2,7 @@
 
 ### August 24, 2019
 
+- [【深入】ES7 Decorator 装饰器 | 淘宝前端团队](https://segmentfault.com/p/1210000009968000/read)
 - [【应用】Web 应用的撤销重做实现](https://juejin.im/post/5d5e508d6fb9a06ad347312f)
 
 ### August 22, 2019
