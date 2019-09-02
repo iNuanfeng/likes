@@ -1,5 +1,9 @@
 # likes
 
+### Sep 2, 2019
+
+- [【基础】2020 年你应该知道的 8 种前端 JavaScript 趋势和工具](https://www.infoq.cn/article/VdJX0JkmSm_dkJBgF23r)
+
 ### August 24, 2019
 
 - [【深入】ES7 Decorator 装饰器 | 淘宝前端团队](https://segmentfault.com/p/1210000009968000/read)
