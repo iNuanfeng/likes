@@ -1,5 +1,9 @@
 # likes
 
+### Sep 6, 2019
+
+- [【工程】京东 PC 首页 2019 改版前端总结](https://juejin.im/post/5d71c98a6fb9a06ae8362f52)
+
 ### Sep 2, 2019
 
 - [【基础】2020 年你应该知道的 8 种前端 JavaScript 趋势和工具](https://www.infoq.cn/article/VdJX0JkmSm_dkJBgF23r)
