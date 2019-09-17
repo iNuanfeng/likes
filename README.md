@@ -1,5 +1,9 @@
 # likes
 
+### Sep 17, 2019
+
+- [【React】完全理解 redux（从零实现一个 redux）](https://juejin.im/entry/5d802a09e51d4561c541a763)
+
 ### Sep 11, 2019
 
 - [【工程】重新审视“微前端”](https://juejin.im/post/5d77c9e86fb9a06b1973633b)
