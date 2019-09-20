@@ -1,5 +1,9 @@
 # likes
 
+### Sep 20, 2019
+
+- [【深入】从零开始，手写一个简易的Virtual DOM)](https://zhuanlan.zhihu.com/p/68491595)
+
 ### Sep 17, 2019
 
 - [【React】完全理解 redux（从零实现一个 redux）](https://juejin.im/entry/5d802a09e51d4561c541a763)
