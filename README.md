@@ -1,5 +1,9 @@
 # likes
 
+### Sep 23, 2019
+
+- [【Node】源码解读：一文彻底搞懂Events模块)](https://juejin.im/post/5d69eef7f265da03f12e70a5)
+
 ### Sep 20, 2019
 
 - [【深入】从零开始，手写一个简易的Virtual DOM)](https://zhuanlan.zhihu.com/p/68491595)
