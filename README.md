@@ -1,5 +1,9 @@
 # likes
 
+### Sep 27, 2019
+
+- [【工程】技术探索：60 天急速自研-搭建前端埋点监控系统](https://juejin.im/post/5d8d9eeaf265da5b783ef45c)
+
 ### Sep 24, 2019
 
 - [【基础】11道浏览器原理面试题](https://juejin.im/post/5d89798d6fb9a06b102769b1)
