@@ -1,5 +1,10 @@
 # likes
 
+### Oct 8, 2019
+
+- [【Vue】Vue3 中的数据侦测](https://juejin.im/post/5d99be7c6fb9a04e1e7baa34)
+- [【Vue】Vue 3 源码导读](https://juejin.im/post/5d977f47e51d4578453274b3)
+
 ### Sep 27, 2019
 
 - [【工程】技术探索：60 天急速自研-搭建前端埋点监控系统](https://juejin.im/post/5d8d9eeaf265da5b783ef45c)
