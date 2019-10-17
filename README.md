@@ -1,5 +1,9 @@
 # likes
 
+### Oct 17, 2019
+
+- [【基础】前端的各种文件上传攻略](https://juejin.im/post/5da14778f265da5bb628e590)
+
 ### Oct 14, 2019
 
 - [【工程】前端代码质量-圈复杂度原理和实践](https://juejin.im/post/5da34216e51d4578502c24c5)
