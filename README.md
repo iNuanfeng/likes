@@ -1,5 +1,10 @@
 # likes
 
+### Oct 24, 2019
+
+- [【工程】解密国内BAT等大厂前端技术体系之阿里篇](https://mp.weixin.qq.com/s/w2N_uApnQUYtW2r-FX4lWQ)
+
+
 ### Oct 17, 2019
 
 - [【基础】前端的各种文件上传攻略](https://juejin.im/post/5da14778f265da5bb628e590)
