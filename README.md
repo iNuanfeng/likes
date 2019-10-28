@@ -1,9 +1,12 @@
 # likes
+### Oct 28, 2019
+
+- [【应用】搭建系统奇美拉的同构渲染服务](https://mp.weixin.qq.com/s/W9yUkOGuZkMWbcpb0DCsvA)
+
 
 ### Oct 24, 2019
 
 - [【工程】解密国内BAT等大厂前端技术体系之阿里篇](https://mp.weixin.qq.com/s/w2N_uApnQUYtW2r-FX4lWQ)
-
 
 ### Oct 17, 2019
 
