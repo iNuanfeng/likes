@@ -1,8 +1,11 @@
 # likes
+### Oct 29, 2019
+
+- [【基础】渲染树的形成原理你真的很懂吗?](https://juejin.im/post/5da2f4f7f265da5b8a516502)
+
 ### Oct 28, 2019
 
 - [【应用】搭建系统奇美拉的同构渲染服务](https://mp.weixin.qq.com/s/W9yUkOGuZkMWbcpb0DCsvA)
-
 
 ### Oct 24, 2019
 
