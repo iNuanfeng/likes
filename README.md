@@ -1,4 +1,10 @@
 # likes
+
+### Nov 07, 2019
+
+- [【基础】鲜为人知的JavaScript陷阱?](https://mp.weixin.qq.com/s/d9Za9IxtBxa5s-wEk0KsUQ)
+- [【基础】原生JS灵魂之问, 请问你能接得住几个？(上)](https://mp.weixin.qq.com/s/QRoZ1SBv31X5zKTv_LqQpA)
+
 ### Oct 29, 2019
 
 - [【基础】渲染树的形成原理你真的很懂吗?](https://juejin.im/post/5da2f4f7f265da5b8a516502)
