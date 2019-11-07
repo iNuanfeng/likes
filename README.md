@@ -4,6 +4,7 @@
 
 - [【基础】鲜为人知的JavaScript陷阱?](https://mp.weixin.qq.com/s/d9Za9IxtBxa5s-wEk0KsUQ)
 - [【基础】原生JS灵魂之问, 请问你能接得住几个？(上)](https://mp.weixin.qq.com/s/QRoZ1SBv31X5zKTv_LqQpA)
+- [【Node】不要阻塞你的事件循环（或是工作线程池）](https://nodejs.org/zh-cn/docs/guides/dont-block-the-event-loop/)
 
 ### Oct 29, 2019
 
