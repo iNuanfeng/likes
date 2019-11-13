@@ -1,5 +1,9 @@
 # likes
 
+### Nov 13, 2019
+
+- [【React】React 开发必须知道的 34 个技巧](https://juejin.im/post/5dcb5a80e51d4520db19b906)
+
 ### Nov 07, 2019
 
 - [【基础】鲜为人知的JavaScript陷阱?](https://mp.weixin.qq.com/s/d9Za9IxtBxa5s-wEk0KsUQ)
