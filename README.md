@@ -1,5 +1,9 @@
 # likes
 
+### Nov 24, 2019
+
+- [【Vue】如何在 Vue 中优雅地使用 CSS Modules？](https://juejin.im/post/5ac5fd7f5188257cc20d854e)
+
 ### Nov 20, 2019
 
 - [【Node】Nodejs 之 RPC 协议简介](https://mp.weixin.qq.com/s/AhKoUpYA4mCwhbxMRRqjBA)
