@@ -3,6 +3,7 @@
 ### Nov 26, 2019
 
 - [【Vue】Vue电商项目-商品飞入购物车特效实现](https://juejin.im/post/5dd55fd2f265da47dd1af944)
+- [【基础】渲染树怎么形成的你真的很懂吗？](https://mp.weixin.qq.com/s/5jMuFElLK4SPEIKrBvGI1Q)
 
 ### Nov 24, 2019
 
