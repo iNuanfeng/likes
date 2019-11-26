@@ -1,5 +1,9 @@
 # likes
 
+### Nov 26, 2019
+
+- [【Vue】Vue电商项目-商品飞入购物车特效实现](https://juejin.im/post/5dd55fd2f265da47dd1af944)
+
 ### Nov 24, 2019
 
 - [【Vue】如何在 Vue 中优雅地使用 CSS Modules？](https://juejin.im/post/5ac5fd7f5188257cc20d854e)
