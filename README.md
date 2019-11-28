@@ -1,5 +1,8 @@
 # likes
 
+### Nov 28, 2019
+- [【架构】美团外卖前端容器化演进实践](https://mp.weixin.qq.com/s/SAuKvlB0Bfj7dRIBzkhO8w)
+
 ### Nov 26, 2019
 
 - [【工程】webpack 应用编译优化之路——后编译](https://github.com/DDFE/DDFE-blog/issues/23)
