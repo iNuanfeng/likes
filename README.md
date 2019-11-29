@@ -1,5 +1,8 @@
 # likes
 
+### Nov 29, 2019
+- [【Vue】为什么Vue3.0不再使用defineProperty实现数据监听？](https://mp.weixin.qq.com/s/O8iL4o8oPpqTm4URRveOIA)
+
 ### Nov 28, 2019
 - [【架构】美团外卖前端容器化演进实践](https://mp.weixin.qq.com/s/SAuKvlB0Bfj7dRIBzkhO8w)
 
