@@ -1,5 +1,8 @@
 # likes
 
+### Dec 2, 2019
+- [【深入】理解webpack热更新原理](https://juejin.im/post/5de0cfe46fb9a071665d3df0)
+
 ### Nov 29, 2019
 - [【Vue】为什么Vue3.0不再使用defineProperty实现数据监听？](https://mp.weixin.qq.com/s/O8iL4o8oPpqTm4URRveOIA)
 
