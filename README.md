@@ -1,5 +1,8 @@
 # likes
 
+### Dec 6, 2019
+- [【Node】Node.js 中的一股清流：理解 Stream（流）的基本概念](https://juejin.im/post/5de9f4fa6fb9a016323d6f50)
+
 ### Dec 2, 2019
 - [【深入】理解webpack热更新原理](https://juejin.im/post/5de0cfe46fb9a071665d3df0)
 
