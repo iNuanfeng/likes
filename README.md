@@ -1,5 +1,8 @@
 # likes
 
+### Dec 9, 2019
+- [【Node】写个ESLint 插件以及了解ESLint的运行原理](https://juejin.im/post/5de8f14ff265da33f9794489)
+
 ### Dec 6, 2019
 - [【Node】Node.js 中的一股清流：理解 Stream（流）的基本概念](https://juejin.im/post/5de9f4fa6fb9a016323d6f50)
 
