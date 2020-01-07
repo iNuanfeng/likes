@@ -1,5 +1,8 @@
 # likes
 
+### Jan 7, 2020
+- [【综合】第三届 SEE Conf 2020 演讲资料（PPT）](https://juejin.im/post/5e13ca7d5188253ab978ad5a)
+
 ### Dec 16, 2019
 - [【Vue】聊聊对Vue.js框架的理解](https://juejin.im/post/5de8f14ff265da33f9794489)
 
