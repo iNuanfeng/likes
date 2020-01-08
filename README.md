@@ -1,5 +1,8 @@
 # likes
 
+### Jan 8, 2020
+- [【React】关于Vue和React的一些对比及个人思考（上）](https://juejin.im/post/5e153e096fb9a048297390c1)
+
 ### Jan 7, 2020
 - [【综合】第三届 SEE Conf 2020 演讲资料（PPT）](https://juejin.im/post/5e13ca7d5188253ab978ad5a)
 
