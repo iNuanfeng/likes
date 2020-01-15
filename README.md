@@ -1,6 +1,9 @@
 # likes
 
 ### Jan 8, 2020
+- [【深入】实现一个大文件上传和断点续传](https://juejin.im/post/5dff8a26e51d4558105420ed)
+
+### Jan 8, 2020
 - [【React】关于Vue和React的一些对比及个人思考（上）](https://juejin.im/post/5e153e096fb9a048297390c1)
 
 ### Jan 7, 2020
