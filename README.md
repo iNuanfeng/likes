@@ -1,5 +1,8 @@
 # likes
 
+### Feb 5, 2020
+- [【工程】前端自动化部署的深度实践](https://juejin.im/post/5e38ec1ce51d4526c932a4fb)\
+
 ### Jan 21, 2020
 - [【深入】「硬核JS」一次搞懂JS运行机制](https://juejin.im/post/5e22b391f265da3e204d8c14)
 
