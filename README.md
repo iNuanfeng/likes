@@ -1,5 +1,8 @@
 # likes
 
+### Mar 9, 2020
+- [【基础】手把手教你撸一个工具库并打包发布，顺便解决JS浮点数计算精度问题](https://juejin.im/post/5e64cf0ef265da5734024f84)
+
 ### Feb 26, 2020
 - [【Vue】2019自结前端Vue.Js面试小册](https://juejin.im/post/5e5485786fb9a07c9c6a54be)
 
