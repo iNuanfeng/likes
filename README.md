@@ -1,5 +1,8 @@
 # likes
 
+### Mar 13, 2020
+- [【深入】你不知道的Virtual DOM（一）：Virtual Dom介绍](https://segmentfault.com/a/1190000016129036)
+
 ### Mar 12, 2020
 - [【Node】Node 与底层之间如何执行异步 I/O 调用](https://juejin.im/post/5e1adbc05188253664549bab)
 
