@@ -1,5 +1,8 @@
 # likes
 
+### Mar 14, 2020
+- [【深入】Chrome 页面呈现原理与性能优化之企业级分享总结](https://mp.weixin.qq.com/s/sFeG_9yuAxH6ZQ-bjWKGuw)
+
 ### Mar 13, 2020
 - [【深入】你不知道的Virtual DOM（一）：Virtual Dom介绍](https://segmentfault.com/a/1190000016129036)
 
