@@ -1,5 +1,8 @@
 # likes
 
+### Mar 23, 2020
+- [【工程】揭秘 vivo 如何打造千万级 DAU 活动中台](https://juejin.im/post/5e6eea34f265da57133b4297)
+
 ### Mar 14, 2020
 - [【深入】Chrome 页面呈现原理与性能优化之企业级分享总结](https://mp.weixin.qq.com/s/sFeG_9yuAxH6ZQ-bjWKGuw)
 
