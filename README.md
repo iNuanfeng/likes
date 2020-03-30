@@ -1,5 +1,8 @@
 # likes
 
+### Mar 30, 2020
+- [【深入】一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://juejin.im/post/5e80511f51882573793e6428)
+
 ### Mar 23, 2020
 - [【工程】揭秘 vivo 如何打造千万级 DAU 活动中台](https://juejin.im/post/5e6eea34f265da57133b4297)
 
