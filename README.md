@@ -1,5 +1,8 @@
 # likes
 
+### Apr 16, 2020
+- [【深入】当浏览器全面禁用三方 Cookie](https://juejin.im/post/5e97124df265da47b27d97ff)
+
 ### Apr 14, 2020
 - [【综合】前端职级评定 & 成长规划](https://juejin.im/post/5e91f6646fb9a03c550fe075)
 
