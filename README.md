@@ -1,7 +1,7 @@
 # likes
 
 ### Jun 4, 2020
-- [【Vue】尤雨溪：重头来过的 Vue 3 带来了什么？e](https://mp.weixin.qq.com/s/eVsfQi9reILmThVxMsCNOA)
+- [【Vue】尤雨溪：重头来过的 Vue 3 带来了什么？](https://mp.weixin.qq.com/s/eVsfQi9reILmThVxMsCNOA)
 
 ### Apr 16, 2020
 - [【深入】当浏览器全面禁用三方 Cookie](https://juejin.im/post/5e97124df265da47b27d97ff)
