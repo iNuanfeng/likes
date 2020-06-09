@@ -1,5 +1,9 @@
 # likes
 
+### Jun 9, 2020
+- [【工程】移动前端开发和 Web 前端开发的区别是什么？](https://juejin.im/post/5ed9fe8ce51d4578740f6f12)
+- [【综合】进大厂连载 2/15：神秘的阿里前端 P8 Offer 如何拿下](https://juejin.im/post/5ededa0ae51d457847716825)
+
 ### Jun 4, 2020
 - [【Vue】尤雨溪：重头来过的 Vue 3 带来了什么？](https://mp.weixin.qq.com/s/eVsfQi9reILmThVxMsCNOA)
 
