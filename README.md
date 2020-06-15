@@ -1,4 +1,8 @@
 # likes
+
+### Jun 15, 2020
+- [【工程】大厂如何开发和部署前端代码？淘宝8年案例解读](https://mp.weixin.qq.com/s/mQYfkx8m7b4oirvRrbrmqQ)
+
 ### Jun 12, 2020
 - [【监控】为什么你一直做不好前端监控](https://juejin.im/post/5ee2d28a6fb9a047942f3b17)
 
