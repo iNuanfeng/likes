@@ -1,5 +1,9 @@
 # likes
 
+### Jun 22, 2020
+- [【架构】前端进阶：跟着开源项目学习插件化架构](https://juejin.im/post/5ef001126fb9a058a6515816)
+- [【综合】进大厂连载 5/15：一万字|如何考察候选人的能力与潜力](https://juejin.im/post/5ef00838f265da02dc2d25b5)
+
 ### Jun 15, 2020
 - [【工程】大厂如何开发和部署前端代码？淘宝8年案例解读](https://mp.weixin.qq.com/s/mQYfkx8m7b4oirvRrbrmqQ)
 
