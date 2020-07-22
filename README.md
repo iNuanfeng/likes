@@ -1,5 +1,8 @@
 # likes
 
+### July 22, 2020
+- [【架构】如何借助 Taro Next 横穿跨端业务线构](https://juejin.im/post/5f178b52e51d45349b5cbad0)
+
 ### Jun 22, 2020
 - [【架构】前端进阶：跟着开源项目学习插件化架构](https://juejin.im/post/5ef001126fb9a058a6515816)
 - [【综合】进大厂连载 5/15：一万字|如何考察候选人的能力与潜力](https://juejin.im/post/5ef00838f265da02dc2d25b5)
