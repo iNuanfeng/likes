@@ -1,8 +1,11 @@
 # likes
 
+### Aug 7, 2020
+- [【基础】「查缺补漏」巩固你的HTTP知识体系](https://juejin.im/post/6857287743966281736)
+- [【Vue】在Vue中使用装饰器，我是认真的](https://juejin.im/post/6856517315010232333)
+
 ### Aug 5, 2020
 - [【综合】我在阿里收获的N个成长](https://mp.weixin.qq.com/s/3Z76AxATUrkmm0joqlhUIA)
-
 
 ### July 22, 2020
 - [【架构】如何借助 Taro Next 横穿跨端业务线构](https://juejin.im/post/5f178b52e51d45349b5cbad0)
