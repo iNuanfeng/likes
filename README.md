@@ -7,6 +7,7 @@
 ### Aug 5, 2020
 - [【综合】我在阿里收获的N个成长](https://mp.weixin.qq.com/s/3Z76AxATUrkmm0joqlhUIA)
 
+
 ### July 22, 2020
 - [【架构】如何借助 Taro Next 横穿跨端业务线构](https://juejin.im/post/5f178b52e51d45349b5cbad0)
 
