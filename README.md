@@ -1,5 +1,9 @@
 # likes
 
+### Sup 1, 2020
+- [【架构】淘系前端互动引擎EVAJS架构与生态实现](https://mp.weixin.qq.com/s/MBW_WraI3BloRteINFWuwA)
+- [【工程】前端模块化的今生](https://blog.shenfq.com/2019/%E5%89%8D%E7%AB%AF%E6%A8%A1%E5%9D%97%E5%8C%96%E7%9A%84%E4%BB%8A%E7%94%9F/)
+
 ### Sup 4, 2020
 - [【管理】研发部分的职能线 or 项目线](https://www.jianshu.com/p/4ccae72201b7)
 
