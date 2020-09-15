@@ -1,6 +1,9 @@
 # likes
 
 ### Sup 14, 2020
+- [【工程】Webpack5 跨应用代码共享 - Module Federation](https://juejin.im/post/6872505128939683848)
+
+### Sup 14, 2020
 - [【架构】浅析鸿蒙 JavaScript GUI 技术栈](https://zhuanlan.zhihu.com/p/240594356)
 - [【JS】从 JS 引擎到 JS 运行时（上）](https://zhuanlan.zhihu.com/p/104333176)
 
