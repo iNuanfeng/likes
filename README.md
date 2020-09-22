@@ -1,5 +1,8 @@
 # likes
 
+### Sup 22, 2020
+- [【工程】你的Tree-Shaking并没什么卵用](https://mp.weixin.qq.com/s/E4iFf5aTbR9rXBU3gnR4Gg)
+
 ### Sup 15, 2020
 - [【工程】Webpack5 跨应用代码共享 - Module Federation](https://juejin.im/post/6872505128939683848)
 
