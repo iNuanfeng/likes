@@ -1,6 +1,9 @@
 # likes
 
 ### Sup 22, 2020
+- [【Vue】[译]尤雨溪：Vue3的设计过程](https://juejin.im/post/6844903823937372174)
+
+### Sup 22, 2020
 - [【工程】你的Tree-Shaking并没什么卵用](https://mp.weixin.qq.com/s/E4iFf5aTbR9rXBU3gnR4Gg)
 
 ### Sup 15, 2020
