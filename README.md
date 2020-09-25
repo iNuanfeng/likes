@@ -1,4 +1,6 @@
 # likes
+### Sup 25, 2020
+- [【Vue】Options API 到 Composition API 的转变](https://juejin.im/post/6844904096265142279#heading-8)
 
 ### Sup 22, 2020
 - [【Vue】[译]尤雨溪：Vue3的设计过程](https://juejin.im/post/6844903823937372174)
