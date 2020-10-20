@@ -1,6 +1,7 @@
 # likes
 
 ### Oct 20, 2020
+- [【工程】基于lerna和yarn workspace的monorepo工作流](https://zhuanlan.zhihu.com/p/71385053)
 - [【工程】探索 webpack5 新特性 Module federation 在腾讯文档的应用](http://www.alloyteam.com/2020/04/14338/)
 - [【工程】WebIDE 助力开发流程在线化，云端开发从未如此简单](https://developer.aliyun.com/article/751584)
 
