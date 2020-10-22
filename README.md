@@ -1,5 +1,10 @@
 # likes
 
+### Oct 22, 2020
+- [【工程】基于 qiankun 的 CMS 应用微前端实践](https://juejin.im/post/6886240723595689997)
+- [【工程】可能是你见过最完善的微前端解决方案](https://zhuanlan.zhihu.com/p/78362028)
+- [【工程】ESLint - 守住优雅的护城河](https://juejin.im/post/6886265504378388487)
+
 ### Oct 20, 2020
 - [【工程】基于lerna和yarn workspace的monorepo工作流](https://zhuanlan.zhihu.com/p/71385053)
 - [【工程】探索 webpack5 新特性 Module federation 在腾讯文档的应用](http://www.alloyteam.com/2020/04/14338/)
