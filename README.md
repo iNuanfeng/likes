@@ -1,5 +1,8 @@
 # likes
 
+### Oct 29, 2020
+- [【综合】四年，如何从前端小白蜕变为前端技术专家？](https://juejin.im/post/6887731225771900942)
+
 ### Oct 22, 2020
 - [【工程】基于 qiankun 的 CMS 应用微前端实践](https://juejin.im/post/6886240723595689997)
 - [【工程】可能是你见过最完善的微前端解决方案](https://zhuanlan.zhihu.com/p/78362028)
