@@ -1,5 +1,8 @@
 # likes
 
+### Nov 12, 2020
+- [【工程】推荐几个大厂的前端代码规范，学会了，你也能写出诗一样的代码！](https://juejin.im/post/6893891476913291278)
+
 ### Nov 10, 2020
 - [【架构】蚂蚁金服网红技术团队分享，用 JavaScript 全栈打造商业级应用](https://mp.weixin.qq.com/s/jgKITXckl9hbxjCNCbqpfA)
 
