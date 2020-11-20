@@ -1,4 +1,6 @@
 # likes
+### Nov 20, 2020
+- [【工程】我们把公司前端架构了！](https://juejin.cn/post/6897103348227391496)
 
 ### Nov 19, 2020
 - [【综合】2020年前端技术浪潮与未来展望](https://mp.weixin.qq.com/s/vAtmYP90-zCgWhsggNiYig)
