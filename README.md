@@ -1,4 +1,7 @@
 # likes
+### Nov 24, 2020
+- [【性能】ESR 在首屏性能优化上的尝试与突破](https://mp.weixin.qq.com/s/Pv2whXxHJ2rlVX_2xhz6WQ)
+
 ### Nov 20, 2020
 - [【工程】我们把公司前端架构了！](https://juejin.cn/post/6897103348227391496)
 
