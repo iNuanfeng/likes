@@ -8,7 +8,7 @@
 ### Nov 19, 2020
 - [【综合】2020年前端技术浪潮与未来展望](https://mp.weixin.qq.com/s/vAtmYP90-zCgWhsggNiYig)
 - [【性能】双十一会场体验 SSR 优化 - 走向更复杂的渲染架构](https://mp.weixin.qq.com/s/bWPHrS8SRRavcEnqDrg7Zw)
-- [【性能】双11主会场性能体验提升 - 秒开优化](https://mp.weixin.qq.com/s/K0nEzRfXdIDFMMk2vRiiXA)
+- [【性能】双11主会场性能体验提升 - 秒开优化](https://mp.weixin.qq.com/s/PJRJBhzatwE3jyeO26iZGg)
 - [【综合】4982亿背后的前端技术—2020天猫双11前端体系大揭秘](https://juejin.cn/post/6895904259972448263)
 
 ### Nov 12, 2020
