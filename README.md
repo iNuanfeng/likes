@@ -1,4 +1,8 @@
 # likes
+
+### Nov 24, 2020
+- [【监控】前端如何做好体系化稳定性监控](https://mp.weixin.qq.com/s/lKoYW3qysS2tjHXFc6R-Pw)
+
 ### Nov 24, 2020
 - [【性能】ESR 在首屏性能优化上的尝试与突破](https://mp.weixin.qq.com/s/Pv2whXxHJ2rlVX_2xhz6WQ)
 
