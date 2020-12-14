@@ -1,5 +1,8 @@
 # likes
 
+### Dec 14, 2020
+- [【Node】Serverless ：让「前端开发者」走向「应用研发者」](https://juejin.cn/post/6905914691688595470)
+
 ### Nov 24, 2020
 - [【监控】前端如何做好体系化稳定性监控](https://mp.weixin.qq.com/s/lKoYW3qysS2tjHXFc6R-Pw)
 
