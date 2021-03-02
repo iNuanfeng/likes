@@ -1,5 +1,8 @@
 # likes
 
+### Mar 2, 2021
+- [【Node】Deno 将停用 TypeScript 的五个原因](https://juejin.cn/post/6934140963262562312)
+
 ### Feb 3, 2021
 - [【综合】今天聊：你为什么迟迟进不去大厂](https://juejin.cn/post/6924860368393076749)
 
