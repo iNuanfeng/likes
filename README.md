@@ -1,5 +1,8 @@
 # likes
 
+### July 22，2021
+- [【React】一文读懂Redux、React-Redux源码](https://juejin.cn/post/6987561439636488228)
+
 ### June 11, 2021
 - [【工程】渐进式 Unbundled 开发工具探索之路](https://mp.weixin.qq.com/s/735yMXZr3GNafaS3mEy8lA)
 
