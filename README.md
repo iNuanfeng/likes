@@ -1,5 +1,9 @@
 # likes
 
+### Aug 8，2021
+- [【深入】你不知道的 Blob](https://mp.weixin.qq.com/s/lQKTCS_QB0E62SK9oXD4LA)
+- [【深入】文件下载，搞懂这9种场景就够了](https://mp.weixin.qq.com/s/K0AWHgk6t0w6WvF7D8azWw)
+
 ### July 22，2021
 - [【React】一文读懂Redux、React-Redux源码](https://juejin.cn/post/6987561439636488228)
 
