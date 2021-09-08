@@ -2,7 +2,8 @@
 
 ### Sep 8，2021
 - [【实战】干货！各支付场景下前后端交互流程](https://mp.weixin.qq.com/s/v7UFOzSls4IJDR8rJrSlVw)
-- 
+- [【工程】前端代码质量-圈复杂度原理和实践](https://juejin.cn/post/6844903965792927751)
+
 ### Aug 23，2021
 - [【跨端】深入解析基于 Flutter 的 Web 渲染引擎「北海 Kraken 」技术原理](https://mp.weixin.qq.com/s/EI7loHgtQLG-cqRQVM6mZQ)
 
