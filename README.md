@@ -1,5 +1,8 @@
 # likes
 
+### Sep 22，2021
+- [【综合】累死累活的业务前端该如何突围？](https://mp.weixin.qq.com/s/Yn4m0CtO5VBnRmK8b4pj2g)
+
 ### Sep 8，2021
 - [【实战】干货！各支付场景下前后端交互流程](https://mp.weixin.qq.com/s/v7UFOzSls4IJDR8rJrSlVw)
 - [【工程】前端代码质量-圈复杂度原理和实践](https://juejin.cn/post/6844903965792927751)
