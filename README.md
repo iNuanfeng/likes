@@ -1,5 +1,8 @@
 # likes
 
+### Oct 13，2021
+- [【深入】画了20张图，详解浏览器渲染引擎工作原理](https://juejin.cn/post/7018358245785862151)
+
 ### Sep 22，2021
 - [【综合】累死累活的业务前端该如何突围？](https://mp.weixin.qq.com/s/Yn4m0CtO5VBnRmK8b4pj2g)
 
