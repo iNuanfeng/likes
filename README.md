@@ -1,5 +1,9 @@
 # likes
 
+
+### Oct 28，2021
+- [【交互】复杂web动画，不慌，选择 web Animations API](https://juejin.cn/post/7023903552946995214)
+
 ### Oct 19，2021
 - [【工程】《蚂蚁前端研发最佳实践》文字稿](https://zhuanlan.zhihu.com/p/94949118)
 
