@@ -1,5 +1,8 @@
 # likes
 
+### Nov 23，2021
+- [【Node】Node.js 底层原理](https://mp.weixin.qq.com/s/gAcLdTBDhmgpbiMv1stt_A)
+- [【架构】「全码」 通用搭建：现代 Web 研发体系中的新一代低/零码搭建](https://mp.weixin.qq.com/s/Cn0JG7uyzJrJhpiuwR8T_A)
 
 ### Oct 28，2021
 - [【交互】复杂web动画，不慌，选择 web Animations API](https://juejin.cn/post/7023903552946995214)
