@@ -1,5 +1,8 @@
 # likes
 
+### Dec 7，2021
+- [【交互】三种前端实现VR全景看房的方案！说不定哪天就用得上！](https://juejin.cn/post/6973865268426571784)
+
 ### Nov 23，2021
 - [【Node】Node.js 底层原理](https://mp.weixin.qq.com/s/gAcLdTBDhmgpbiMv1stt_A)
 - [【架构】「全码」 通用搭建：现代 Web 研发体系中的新一代低/零码搭建](https://mp.weixin.qq.com/s/Cn0JG7uyzJrJhpiuwR8T_A)
