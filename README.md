@@ -1,6 +1,10 @@
 # likes
 
 ### Apr 29，2022
+- [【架构】跨端运行时方案原理](https://zhuanlan.zhihu.com/p/160824943)
+- [【架构】跨端运行时方案解密与思考](https://zhuanlan.zhihu.com/p/271886068)
+
+### Apr 29，2022
 - [【架构】Taro Next 架构揭秘](https://segmentfault.com/a/1190000021466416)
 
 ### Dec 24，2021
