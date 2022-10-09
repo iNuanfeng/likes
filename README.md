@@ -1,4 +1,7 @@
 # likes
+### Oct 9，2022
+- [【规范】如何去卷一套标准的前端团队规范](https://juejin.cn/post/7151983972828839943)
+
 ### May 16，2022
 - [【低代码】爱奇艺低代码引擎：千变万化、快速搭建的万花筒](https://mp.weixin.qq.com/s/Ts9z0TNSddzypk7gKpsYig)
 - [【低代码】国内低代码平台合集](https://github.com/taowen/awesome-lowcode)
