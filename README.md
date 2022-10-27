@@ -1,5 +1,8 @@
 # likes
 
+### Oct 27，2022
+- [【低代码】低代码技术在研发团队的应用模式探讨](https://mp.weixin.qq.com/s/Ynk_wjJbmNw7fEG6UtGZbQ)
+
 ### Oct 25，2022
 - [【规范】非大厂的我们，要如何去搞前端基建？](https://juejin.cn/post/7144881028661723167)
 
